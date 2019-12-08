@@ -1,39 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Luke Ooyendyk",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/profile.jpg",
+    "email": "ooyendyk@tuta.io",
+    "phone": "0459 707 989",
+    "website": "https://ooyendyk.github.io",
+    "summary": "I am studying Computer Science at the University of Adelaide. I expect to graduate in 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "5000",
+      "city": "Adelaide",
+      "countryCode": "AUS",
+      "region": "SA"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ooyendyk",
+        "url": "https://github.com/ooyendyk"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Luke Ooyendyk",
+        "url": "https://www.linkedin.com/in/luke-ooyendyk/"
       }
     ]
   },
@@ -46,12 +36,17 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "algorithims and data-structures",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "web development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "machine learning",
       "keywords": [
       ]
     }
@@ -63,10 +58,21 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "Python",
+        "HTML",
+        "CSS",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL",
+        "Bash",
+        "Vue",
+        "Bootstrap",
+        "Node.JS",
+        "Express.JS"
+        "Django",
+        "Flask",
+        "Sass",
+        "Pug",
+        "Bootstrap"
       ]
     },
     {
@@ -76,17 +82,18 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
+        "Suversion",
         "g++",
-        "TI LaunchPad"
+        "AWS"        
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Adelaide",
+      "area": "Computer Science (expected, 2021)",
+      "studyType": "",
+      "startDate": "2019-01-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,70 +102,49 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Tantulum",
+      "position": "Programmer and Technical Co-Founder",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Programmer",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Launched startup, and developed IoT system that would notify caregivers in case of medical emergency",
+        "Wrote the front and back end of the web-app",
+        "Created work-flow to push updates to edge IoT devices",
+        "Performed extensive data munging"
       ]
-    },
+    }
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Century Engineering",
+      "position": "Production Manager",
+      "website": "http://www.cenman.com.au/",
+      "startDate": "2017-07-01",
+      "endDate": "2017-12-01",
+      "summary": "Coder",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Optimised the workflow of co-workers boosting office productivity",
+        "Checked manufacturing drawings preventing costly errors and saving thousands",
+        "Wrote extensive VBA scripts"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "Adelaide Blockchain",
+      "website": "http://adelaideblockchain.org.au",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "startDate": "2018-03-01",
+      "endDate": "2019-01-01",
+      "summary": "Developer, educator and community rep",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Developed website",
+        "Produced education material and taught classes on blockchain development",
+        "Performed community outreach and tech evangelism"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
