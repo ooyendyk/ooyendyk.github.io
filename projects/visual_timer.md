@@ -20,4 +20,3 @@ summary: I developed a simple terminal based timer; inspired by the principal of
 
 [Visual Timer](https://github.com/ooyendyk/visual_timer/) was one of my first projects. For this task I used Python and Curses to render to the screen. Over the course of development, I learned about functional programming, unit testing and version control (git). 
 
-Check it out [here](https://github.com/ooyendyk/visual_timer/).
