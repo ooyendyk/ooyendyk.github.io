@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "algorithims and data-structures",
+      "name": "Algorithims and data-structures",
       "keywords": [
       ]
     },
@@ -51,21 +51,10 @@
       "keywords": [
         "C",
         "C++",
-        "Python",
-        "HTML",
-        "CSS",
+        "Java",
         "Javascript",
-        "SQL",
-        "Bash",
-        "Vue",
-        "Bootstrap",
-        "Node.JS",
-        "Express.JS",
-        "Django",
-        "Flask",
-        "Sass",
-        "Pug",
-        "Bootstrap"
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
@@ -73,20 +62,19 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Linux",
+        "Ubuntu",
         "Git/GitHub",
-        "Suversion",
         "g++",
-        "AWS"        
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Adelaide",
-      "area": "Computer Science (expected, 2021)",
-      "studyType": "",
-      "startDate": "2019-01-01",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
