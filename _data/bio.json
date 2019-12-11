@@ -103,14 +103,13 @@
       "highlights": [
         "Launched startup, and developed IoT system that would notify caregivers in case of medical emergency",
         "Wrote the front and back end of the web-app",
-        "Created work-flow to push updates to edge IoT devices",
         "Performed extensive data munging"
       ]
     },
     {
       "company": "Century Engineering",
       "position": "Production Manager",
-      "website": "http://www.cenman.com.au/",
+      "website": "http://cenman.com.au",
       "startDate": "2017-07-01",
       "endDate": "2017-12-01",
       "summary": "",
