@@ -29,7 +29,27 @@
   },
   "interests": [
     {
-      "name": "Algorithims and data-structures",
+      "name": "IoT",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Smart cities",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "3D printing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "CAD",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "algorithims and data-structures",
       "keywords": [
       ]
     },
@@ -46,37 +66,44 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Competent",
       "level": "",
       "keywords": [
-        "C",
         "C++",
         "Python",
+        "Bootstrap",
+        "Autodesk Inventor",
+      ]
+    },
+    {
+      "name": "Intermediate",
+      "level": "",
+      "keywords": [
+        "Git",
         "HTML",
         "CSS",
         "Javascript",
         "SQL",
         "Bash",
-        "Vue",
+        "Subversion",
         "Bootstrap",
         "Node.JS",
         "Express.JS",
-        "Django",
         "Flask",
         "Sass",
         "Pug",
-        "Bootstrap"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Developing",
       "level": "",
       "keywords": [
-        "Linux",
-        "Git",
-        "Suversion",
-        "g++",
-        "Amazon AWS"
+        "C",
+        "Amazon AWS",
+        "Vue.JS",
+        "Django",
+        "Java",
+        "Adobe Illustrator"
       ]
     }
   ],
@@ -84,7 +111,7 @@
     {
       "institution": "University of Adelaide",
       "area": " (expected 2021)",
-      "studyType": "Computer Science",
+      "studyType": "Bachelor of Computer Science",
       "startDate": "2019",
       "endDate": "Present",
       "gpa": "",
@@ -102,7 +129,7 @@
       "summary": "",
       "highlights": [
         "Launched startup, and developed IoT system that would notify caregivers in case of medical emergency",
-        "Wrote the front and back end of the web-app",
+        "Wrote the front and back end of the web-app with Express.JS and Bootstrap",
         "Performed extensive data munging"
       ]
     },
@@ -114,9 +141,10 @@
       "endDate": "2017-12-01",
       "summary": "",
       "highlights": [
-        "Optimised the workflow of co-workers boosting office productivity",
-        "Checked manufacturing drawings preventing costly errors and saving thousands",
-        "Wrote extensive VBA scripts"
+        "Divided Century & Customer drawing packages into work packages",
+        "Studied drawings and prepared job traveller cards for individual components and assemblies to travel around workshop and/to from vendors",
+        "Wrote script to automate the marking up of drawings",
+        "Debugged and wrote cost estimate VBA scripts"
       ]
     }
   ],
@@ -136,7 +164,7 @@
     }
   ],
 
-  "references": [
+  "referees": [
     {
       "name": "Available upon request",
       "reference": ""
