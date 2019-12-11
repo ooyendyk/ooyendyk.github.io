@@ -51,30 +51,41 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "Python",
+        "HTML",
+        "CSS",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL",
+        "Bash",
+        "Vue",
+        "Bootstrap",
+        "Node.JS",
+        "Express.JS",
+        "Django",
+        "Flask",
+        "Sass",
+        "Pug",
+        "Bootstrap"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
+        "Linux",
+        "Git",
+        "Suversion",
         "g++",
-        "TI LaunchPad"
+        "Amazon AWS"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Adelaide",
+      "area": " (expected 2021)",
+      "studyType": "Computer Science",
+      "startDate": "2019",
       "endDate": "Present",
       "gpa": "",
       "courses": [
