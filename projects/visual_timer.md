@@ -18,5 +18,5 @@ summary: I developed a simple terminal based timer; inspired by the principal of
   <img class="ui image" src="../images/visual_timer.gif">
 </div>
 
-[Visual Timer](https://github.com/ooyendyk/visual_timer/) was one of my first projects. For this task I used Python and Curses to render to the screen. Over the course of development, I learned about functional programming, unit testing and version control (git). 
+[Visual Timer](https://github.com/ooyendyk/visual_timer/) is a simple terminal based timer. For this task I used Python and Curses to render to the screen.
 
