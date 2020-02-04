@@ -24,7 +24,3 @@ Over the next day, I polished the gameplay, added a main menu, scoring and uploa
 Download the game [here](https://github.com/ooyendyk/jumpy-run/releases)
 
 Check out the source code [here](https://github.com/ooyendyk/jumpy-run)
-
-<img class="ui large center floated rounded image" src="../images/flopchat.png">
-
-[Flop-Chat](https://github.com/ooyendyk/flop-chat) is a simple flask and socket.io chat app inspired by Slack.
