@@ -10,9 +10,10 @@ labels:
   - Unity
   - C#
   - Game
+summary: Jumpy Run, is a 3D side-scroller.
+projecturl: https://github.com/ooyendyk/jumpy-run
+---
 
-About:
---
 
 <img class="ui large center floated rounded image" src="../images/JumpyRun.gif">
 
