@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/JumpyRun.gif
+image: images/JumpyRun.PNG
 title: Flop-Chat
 permalink: projects/jumpy-run
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 About:
 --
 
-<img class="ui large center floated rounded image" src="../images/JumpyRun.PNG">
+<img class="ui large center floated rounded image" src="../images/JumpyRun.gif">
 
 
 My first ever game, Jumpy Run, is a 3D side-scroller that plays like an easy-mode Floppy Birds.
