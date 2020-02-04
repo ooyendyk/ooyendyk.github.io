@@ -13,6 +13,10 @@ labels:
 
 About:
 --
+
+<img class="ui large center floated rounded image" src="../images/flopchat.png">
+
+
 My first ever game, Jumpy Run, is a 3D side-scroller that plays like an easy-mode Floppy Birds.
 
 I developed the first playable prototype in an evening after downloading the Unity game engine on a whim.
