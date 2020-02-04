@@ -14,7 +14,7 @@ labels:
 About:
 --
 
-<img class="ui large center floated rounded image" src="../images/flopchat.png">
+<img class="ui large center floated rounded image" src="../images/JumpyRun.PNG">
 
 
 My first ever game, Jumpy Run, is a 3D side-scroller that plays like an easy-mode Floppy Birds.
