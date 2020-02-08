@@ -11,7 +11,7 @@ labels:
   - C#
   - Game
 summary: Jumpy Run, is a 3D side-scroller.
-projecturl: https://github.com/ooyendyk/jumpy-run
+projecturl: https://ooyendyk.github.io/projects/jumpy-run
 ---
 
 
