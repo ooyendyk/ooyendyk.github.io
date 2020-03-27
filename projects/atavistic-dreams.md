@@ -23,7 +23,8 @@ projecturl: https://ooyendyk.github.io/projects/atavistic-dreams
 <img class="ui medium left floated rounded image" src="../images/mlART3.jpeg">
 <img class="ui medium center floated rounded image" src="../images/mlART4.jpeg">
 <img class="ui medium right floated rounded image" src="../images/mlART5.jpeg">
-<h1 style="text-align: center;">       </h1>
+<br />
+<br />
 
 <p>After stumbling across some classic art/design magazines, I started toying with the idea of taking up digital art.</p>
 
