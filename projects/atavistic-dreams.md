@@ -31,6 +31,9 @@ projecturl: https://ooyendyk.github.io/projects/atavistic-dreams
 </div>
 
 <div>
+<br>
+<br/>
+  
 <p>After stumbling across some classic art/design magazines, I started toying with the idea of taking up digital art.</p>
 
 <p>There was one problem with taking up a new hobby; I simply didn't have the time to learn a new skill.</p>
