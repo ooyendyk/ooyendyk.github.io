@@ -16,14 +16,15 @@ summary: Atavistic-Dreams, is a project to generate art through the use of machi
 projecturl: https://ooyendyk.github.io/projects/atavistic-dreams
 ---
 
-
 <div>
-  <video width="300" height="300" controls><source src="../images/mlART0.mp4" type="video/mlART0.mp4"></video>
-  <img class="ui medium center floated rounded image" src="../images/mlART1.jpeg">
-  <img class="ui medium right floated rounded image" src="../images/mlART2.jpeg">
-  <img class="ui medium left floated rounded image" src="../images/mlART3.jpeg">
-  <img class="ui medium center floated rounded image" src="../images/mlART4.jpeg">
-  <img class="ui medium right floated rounded image" src="../images/mlART5.jpeg">
+  <img src="../images/mlART1.jpeg" class="ui medium floated rounded image">
+  <img src="../images/mlART2.jpeg" class="ui medium floated rounded image">
+  <img src="../images/mlART3.jpeg" class="ui medium floated rounded image">
+  <img src="../images/mlART4.jpeg" class="ui medium floated rounded image">
+  <img src="../images/mlART5.jpeg" class="ui medium rounded image">
+  <br>
+  <hl>
+  </hl>
 </div>
 
 <div>
