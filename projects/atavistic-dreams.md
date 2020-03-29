@@ -17,6 +17,9 @@ projecturl: https://ooyendyk.github.io/projects/atavistic-dreams
 ---
 
 <div>
+  <video width="300" height="300" controls>
+     <source src="../images/mlART0.mp4" type="video/mpeg">
+  </video>
   <img src="../images/mlART1.jpeg" class="ui medium floated rounded image">
   <img src="../images/mlART2.jpeg" class="ui medium floated rounded image">
   <img src="../images/mlART3.jpeg" class="ui medium floated rounded image">
