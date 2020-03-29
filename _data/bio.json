@@ -39,16 +39,6 @@
       ]
     },
     {
-      "name": "3D printing",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "CAD",
-      "keywords": [
-      ]
-    },
-    {
       "name": "algorithims and data-structures",
       "keywords": [
       ]
@@ -71,8 +61,7 @@
       "keywords": [
         "C++",
         "Python",
-        "Bootstrap",
-        "Autodesk Inventor",
+        "Bootstrap"
       ]
     },
     {
@@ -98,12 +87,15 @@
       "name": "Developing",
       "level": "",
       "keywords": [
-        "C",
-        "Amazon AWS",
+        "Keras",
+        "Tensorflow",
         "Vue.JS",
+        "Adobe Illustrator",
+        "C",
+        "QT",
+        "Amazon AWS",
         "Django",
-        "Java",
-        "Adobe Illustrator"
+        "Java"
       ]
     }
   ],
@@ -145,6 +137,20 @@
         "Studied drawings and prepared job traveller cards for individual components and assemblies to travel around workshop and/to from vendors",
         "Wrote script to automate the marking up of drawings",
         "Debugged and wrote cost estimate VBA scripts"
+      ]
+    },
+    {
+      "company": "SAGE Automation",
+      "position": "(Software) Intern",
+      "website": "http://sageautomation.com",
+      "startDate": "2020-03-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Developed web-based dashboards for multiple projects",
+        "Built out scalable automated machine learning pipeline",
+        "Developed machine learning model to predict popularity of tourist destinations with 97% accuracy",
+        "Updated codebase for IoT smartcity devices to extract real time gps data"
       ]
     }
   ],
