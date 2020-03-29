@@ -113,16 +113,17 @@
   ],
   "work": [
     {
-      "company": "Tantulum",
-      "position": "Programmer and Technical Co-Founder",
-      "website": "",
-      "startDate": "2017-01-01",
-      "endDate": "2018-01-01",
+      "company": "SAGE Automation",
+      "position": "(Software) Intern",
+      "website": "http://sageautomation.com",
+      "startDate": "2020-03-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Launched startup, and developed IoT system that would notify caregivers in case of medical emergency",
-        "Wrote the front and back end of the web-app with Express.JS and Bootstrap",
-        "Performed extensive data munging"
+        "Developed web-based dashboards for multiple projects",
+        "Built out scalable automated machine learning pipeline",
+        "Developed machine learning model to predict popularity of tourist destinations with 97% accuracy",
+        "Updated codebase for IoT smartcity devices to extract real time gps data"
       ]
     },
     {
@@ -140,17 +141,16 @@
       ]
     },
     {
-      "company": "SAGE Automation",
-      "position": "(Software) Intern",
-      "website": "http://sageautomation.com",
-      "startDate": "2020-03-01",
-      "endDate": "Present",
+      "company": "Tantulum",
+      "position": "Programmer and Technical Co-Founder",
+      "website": "",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01",
       "summary": "",
       "highlights": [
-        "Developed web-based dashboards for multiple projects",
-        "Built out scalable automated machine learning pipeline",
-        "Developed machine learning model to predict popularity of tourist destinations with 97% accuracy",
-        "Updated codebase for IoT smartcity devices to extract real time gps data"
+        "Launched startup, and developed IoT system that would notify caregivers in case of medical emergency",
+        "Wrote the front and back end of the web-app with Express.JS and Bootstrap",
+        "Performed extensive data munging"
       ]
     }
   ],
