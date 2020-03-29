@@ -127,6 +127,19 @@
       ]
     },
     {
+      "company": "Tantulum",
+      "position": "Programmer and Technical Co-Founder",
+      "website": "",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01",
+      "summary": "",
+      "highlights": [
+        "Launched startup, and developed IoT system that would notify caregivers in case of medical emergency",
+        "Wrote the front and back end of the web-app with Express.JS and Bootstrap",
+        "Performed extensive data munging"
+      ]
+    },
+    {
       "company": "Century Engineering",
       "position": "Production Planner",
       "website": "http://cenman.com.au",
@@ -138,19 +151,6 @@
         "Studied drawings and prepared job traveller cards for individual components and assemblies to travel around workshop and/to from vendors",
         "Wrote script to automate the marking up of drawings",
         "Debugged and wrote cost estimate VBA scripts"
-      ]
-    },
-    {
-      "company": "Tantulum",
-      "position": "Programmer and Technical Co-Founder",
-      "website": "",
-      "startDate": "2017-01-01",
-      "endDate": "2018-01-01",
-      "summary": "",
-      "highlights": [
-        "Launched startup, and developed IoT system that would notify caregivers in case of medical emergency",
-        "Wrote the front and back end of the web-app with Express.JS and Bootstrap",
-        "Performed extensive data munging"
       ]
     }
   ],
