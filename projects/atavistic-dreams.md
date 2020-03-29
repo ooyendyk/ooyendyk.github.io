@@ -17,14 +17,14 @@ projecturl: https://ooyendyk.github.io/projects/atavistic-dreams
 ---
 
 <div>
-  <video width="300" height="300" autoplay="" controls="">
-     <source src="../images/mlART0.mp4" type="video/mp4">
-  </video>
   <img src="../images/mlART1.jpeg" class="ui medium floated rounded image">
   <img src="../images/mlART2.jpeg" class="ui medium floated rounded image">
   <img src="../images/mlART3.jpeg" class="ui medium floated rounded image">
   <img src="../images/mlART4.jpeg" class="ui medium floated rounded image">
-  <img src="../images/mlART5.jpeg" class="ui medium rounded image">
+  <img src="../images/mlART5.jpeg" class="ui medium floated rounded image">
+  <video width="300" height="300" autoplay="" controls="">
+     <source src="../images/mlART0.mp4" type="video/mp4">
+  </video>
   <br>
   <hl>
   </hl>
