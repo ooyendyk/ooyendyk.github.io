@@ -68,6 +68,8 @@
       "name": "Intermediate",
       "level": "",
       "keywords": [
+        "Keras",
+        "Tensorflow",
         "Git",
         "HTML",
         "CSS",
@@ -75,7 +77,6 @@
         "SQL",
         "Bash",
         "Subversion",
-        "Bootstrap",
         "Node.JS",
         "Express.JS",
         "Flask",
@@ -87,8 +88,6 @@
       "name": "Developing",
       "level": "",
       "keywords": [
-        "Keras",
-        "Tensorflow",
         "Vue.JS",
         "Adobe Illustrator",
         "C",
