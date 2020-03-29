@@ -121,7 +121,7 @@
       "highlights": [
         "Developed web-based dashboards for multiple projects",
         "Built out scalable automated machine learning pipeline",
-        "Developed machine learning model to predict popularity of tourist destinations with 97% accuracy",
+        "Developed machine learning model to predict popularity of tourist destinations with an r^2 of 98% and an error rate of less than 9%",
         "Updated codebase for IoT smartcity devices to extract real time gps data"
       ]
     },
@@ -134,8 +134,9 @@
       "summary": "",
       "highlights": [
         "Launched startup, and developed IoT system that would notify caregivers in case of medical emergency",
+        "Developed classification model to determine if a subject had collapsed of fallen with 97% accuracy",
         "Wrote the front and back end of the web-app with Express.JS and Bootstrap",
-        "Performed extensive data munging"
+        "Created pipeline to get data from and push updates to edge IoT devices"
       ]
     },
     {
