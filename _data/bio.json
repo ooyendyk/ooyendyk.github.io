@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Luke Ooyendyk",
-    "label": "Student",
+    "label": "(Software) Engineering Officer",
     "picture": "https://ooyendyk.github.io/images/profile.jpeg",
     "email": "ooyendyk@tuta.io",
     "phone": "+61 459 707 989",
     "website": "https://ooyendyk.github.io",
-    "summary": "I am studying Computer Science at the University of Adelaide. I expect to graduate in 2021.",
+    "summary": "I'm a programmer at Sage Automation, and a computer science student at Adelaide University.",
     "location": {
       "address": "",
       "postalCode": "5000",
@@ -35,11 +35,6 @@
     },
     {
       "name": "smart cities",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "algorithims and data-structures",
       "keywords": [
       ]
     },
@@ -113,7 +108,7 @@
   "work": [
     {
       "company": "SAGE Automation",
-      "position": "(Software) Intern",
+      "position": "(Software) Engineering Officer",
       "website": "http://sageautomation.com",
       "startDate": "2020-03-01",
       "endDate": "Present",
