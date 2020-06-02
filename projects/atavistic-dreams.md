@@ -34,18 +34,12 @@ projecturl: https://ooyendyk.github.io/projects/atavistic-dreams
 <br>
 <br/>
   
-<p>After stumbling across some classic art/design magazines, I started toying with the idea of taking up digital art.</p>
-
-<p>There was one problem with taking up a new hobby; I simply didn't have the time to learn a new skill.</p>
-
-<p>Being a programmer, I decided to go for the obvious solution; automate it.</p>
-
-<p>I decided to use machine learning, beacuse then I'd be almost completely removed from the artistic procces.</p>
-
-<p>This is ideal, because then I'd have to exert no effort in coming up with the meaning behind the art.</p>
+<p>Atavistic-Dreams, is a project to generate art through the use of machine learning.</p>
 
 <p>I started out by scraping digital art from instagram. This dataset was then fed into styleGAN, and trained for 2000 epochs.</p>
 
 <p>The resulting model was used to generate images, which were then pased to another ML algorithim,
 SRCNN to upscale the images from 1042x1042 to 4096x4096.</p>
+
+<p>The entire project only took about three hours to go from idea to completion</p>
 </div>
