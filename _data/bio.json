@@ -6,7 +6,7 @@
     "email": "ooyendyk@tuta.io",
     "phone": "+61 459 707 989",
     "website": "https://ooyendyk.github.io",
-    "summary": "I'm a programmer at Sage Automation, and a computer science student at Adelaide University.",
+    "summary": "I'm a programmer at Sage Automation",
     "location": {
       "address": "",
       "postalCode": "5000",
@@ -34,37 +34,35 @@
       ]
     },
     {
-      "name": "smart cities",
+      "name": "Smart Cities",
       "keywords": [
       ]
     },
     {
-      "name": "web development",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "machine learning",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Competent",
+      "name": "Advanced",
       "level": "",
       "keywords": [
         "C++",
         "Python",
-        "Bootstrap"
+        "PostreSQL"
       ]
     },
     {
       "name": "Intermediate",
       "level": "",
       "keywords": [
-        "Keras",
-        "Tensorflow",
         "Git",
         "HTML",
         "CSS",
@@ -77,29 +75,41 @@
         "Flask",
         "Sass",
         "Pug",
+        "Bootstrap",
+        "Keras",
+        "Tensorflow",
+        "Amazon AWS",
+        "Vue.JS",
+        "HTMX",
+        "CD/DI",
+        "SDLC",
+        "Agile Development",
+        "Test Driven Development",
+        "Waterfall Development"
+        "REST"
       ]
     },
     {
       "name": "Developing",
       "level": "",
       "keywords": [
-        "Vue.JS",
-        "Adobe Illustrator",
+        "React.js",
         "C",
-        "QT",
-        "Amazon AWS",
+        "Adobe Illustrator",
         "Django",
-        "Java"
+        "Java",
+        "Unity",
+        "C#"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Adelaide",
-      "area": " (expected 2021)",
+      "area": "",
       "studyType": "Bachelor of Computer Science",
       "startDate": "2019",
-      "endDate": "Present",
+      "endDate": "2022",
       "gpa": "",
       "courses": [
       ]
@@ -114,10 +124,17 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Developed web-based dashboards for multiple projects",
-        "Built out scalable automated machine learning pipeline",
-        "Developed machine learning model to predict popularity of tourist destinations with an r^2 of 98% and an error rate of less than 9%",
-        "Updated codebase for IoT smartcity devices to extract real time gps data"
+        "Took responsibility for entire projects",
+        "Interacted with clients to find solutions to problems",
+        "Designed harware systems to record real-world data",
+        "Developed device side, IoT code",
+        "Built out entire IoT server side architecture on AWS",
+        "Built out web-based dashboards for client interaction",
+        "Managed, educated and provided guidence to junior engineers",
+        "Built out a scalable automated machine learning pipeline",
+        "Developed machine learing models to predict pedestrian flows and location occupancy",
+        "Utilised and built out CD/DI piplines using Gitlab to enhance reliability",
+        "Had fun"
       ]
     },
     {
@@ -130,8 +147,8 @@
       "highlights": [
         "Launched startup, and developed IoT system that would notify caregivers in case of medical emergency",
         "Developed classification model to determine if a subject had collapsed of fallen with 97% accuracy",
-        "Wrote the front and back end of the web-app with Express.JS and Bootstrap",
-        "Created pipeline to get data from and push updates to edge IoT devices"
+        "Built out fullstack web-app",
+        "Created automated deployment pipeline"
       ]
     },
     {
@@ -142,10 +159,6 @@
       "endDate": "2017-12-01",
       "summary": "",
       "highlights": [
-        "Divided Century & Customer drawing packages into work packages",
-        "Studied drawings and prepared job traveller cards for individual components and assemblies to travel around workshop and/to from vendors",
-        "Wrote script to automate the marking up of drawings",
-        "Debugged and wrote cost estimate VBA scripts"
       ]
     }
   ],
@@ -158,7 +171,6 @@
       "endDate": "2019-01-01",
       "summary": "Developer, educator and community rep",
       "highlights": [
-        "Developed website",
         "Produced education material and taught classes on blockchain development",
         "Performed community outreach and tech evangelism"
       ]
