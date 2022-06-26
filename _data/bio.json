@@ -126,15 +126,14 @@
       "highlights": [
         "Took responsibility for entire projects",
         "Interacted with clients to find solutions to problems",
-        "Designed harware systems to record real-world data",
+        "Designed hardware systems to record real-world data",
         "Developed device side, IoT code",
         "Built out entire IoT server side architecture on AWS",
         "Built out web-based dashboards for client interaction",
-        "Managed, educated and provided guidence to junior engineers",
+        "Managed, educated and provided guidance to junior engineers",
         "Built out a scalable automated machine learning pipeline",
-        "Developed machine learing models to predict pedestrian flows and location occupancy",
-        "Utilised and built out CD/DI piplines using Gitlab to enhance reliability",
-        "Had fun"
+        "Developed machine learning models to predict pedestrian flows and location occupancy",
+        "Utilised and built out CD/DI pipelines using Gitlab to enhance productivity and reliability"
       ]
     },
     {
@@ -148,7 +147,7 @@
         "Launched startup, and developed IoT system that would notify caregivers in case of medical emergency",
         "Developed classification model to determine if a subject had collapsed of fallen with 97% accuracy",
         "Built out fullstack web-app",
-        "Created automated deployment pipeline"
+        "Created an automated deployment pipeline"
       ]
     },
     {
