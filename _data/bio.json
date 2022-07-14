@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Luke Ooyendyk",
-    "label": "(Software) Engineering Officer",
+    "label": "Engineering Officer",
     "picture": "https://ooyendyk.github.io/images/profile.jpeg",
     "email": "ooyendyk@tuta.io",
     "phone": "+61 459 707 989",
@@ -123,8 +123,6 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Took responsibility for entire projects",
-        "Interacted with clients to find solutions to problems",
         "Designed hardware systems to record real-world data",
         "Developed device side, IoT code",
         "Built out entire IoT server side architecture on AWS",
