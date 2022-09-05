@@ -54,36 +54,40 @@
       "name": "Advanced",
       "level": "",
       "keywords": [
-        "C++",
         "Python",
-        "PostreSQL"
+        "PostreSQL",
+        "Bash",
+        "Git"
       ]
     },
     {
       "name": "Intermediate",
       "level": "",
       "keywords": [
-        "Git",
         "HTML",
         "CSS",
+        "C++",
         "Javascript",
         "SQL",
-        "Bash",
         "Subversion",
         "Node.JS",
         "Express.JS",
         "Flask",
         "Sass",
         "Pug",
+        "Cypress",
         "Bootstrap",
+        "Docker",
         "Amazon AWS",
         "HTMX",
         "CD/DI",
         "SDLC",
+        "QA/Testing",
+        "Security",
         "Agile Development",
         "Test Driven Development",
         "Waterfall Development",
-        "REST"
+        "REST"        
       ]
     },
     {
@@ -93,12 +97,14 @@
         "React.js",
         "Vue.JS",
         "Keras",
-        "Tensorflow",
         "C",
         "Django",
         "Java",
         "Unity",
-        "C#"
+        "C#",
+        "Powershell",
+        "Typescript",
+        "Jest"
       ]
     }
   ],
@@ -117,17 +123,45 @@
   "work": [
     {
       "company": "SAGE Automation",
-      "position": "Engineering Officer",
+      "position": "Graduate Engineer",
       "website": "http://sageautomation.com",
-      "startDate": "2020-03-01",
+      "startDate": "2022-06-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Designed hardware systems to record real-world data",
+        "Took responsibility for projects",
+        "Designed and developed hardware systems to record real-world data",
         "Developed device side, IoT code",
-        "Built out entire IoT server side architecture on AWS",
+        "Built out IoT server side architecture on AWS",
+        "Built out and managed QA/testing in a fast moving team (unit and end-to-end)"
+      ]
+    },
+    {
+      "company": "SAGE Automation",
+      "position": "Engineering Officer",
+      "website": "http://sageautomation.com",
+      "startDate": "2020-06-01",
+      "endDate": "2022-06-01",
+      "summary": "",
+      "highlights": [
+        "Interacted with clients to find solutions to problems",
         "Built out web-based dashboards for client interaction",
+        "Developed software for touch based kiosk",
+        "Designed and developed hardware systems to record real-world data",
+        "Developed device side, IoT code",
+        "Managed and maintained production databases"
         "Managed, educated and provided guidance to junior engineers",
+        "Took responsibility for attracting interns and talent to the organisation"
+      ]
+    },
+    {
+      "company": "SAGE Automation",
+      "position": "Intern",
+      "website": "http://sageautomation.com",
+      "startDate": "2020-03-01",
+      "endDate": "2020-06-01",
+      "summary": "",
+      "highlights": [
         "Built out a scalable automated machine learning pipeline",
         "Developed machine learning models to predict pedestrian flows and location occupancy",
         "Utilised and built out CD/DI pipelines using Gitlab to enhance productivity and reliability"
