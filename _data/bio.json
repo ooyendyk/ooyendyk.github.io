@@ -6,7 +6,7 @@
     "email": "ooyendyk@tuta.io",
     "phone": "+61 459 707 989",
     "website": "https://ooyendyk.github.io",
-    "summary": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀I'm a programmer at Sage Automation",
+    "summary": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀I'm a Software Engineer at Sage Automation",
     "location": {
       "address": "",
       "postalCode": "5000",
@@ -87,7 +87,9 @@
         "Agile Development",
         "Test Driven Development",
         "Waterfall Development",
-        "REST"        
+        "REST",
+        "OOP,
+        "Functional Programming
       ]
     },
     {
@@ -123,35 +125,28 @@
   "work": [
     {
       "company": "SAGE Automation",
-      "position": "Graduate Engineer",
-      "website": "http://sageautomation.com",
-      "startDate": "2022-06-01",
-      "endDate": "Present",
-      "summary": "Test \n test \n",
-      "highlights": [
-        "Took responsibility for projects",
-        "Designed and developed hardware systems to record real-world data",
-        "Developed device side, IoT code",
-        "Built out IoT server side architecture on AWS",
-        "Built out and managed QA/testing in a fast moving team (unit and end-to-end)"
-      ]
-    },
-    {
-      "company": "SAGE Automation",
-      "position": "Engineering Officer",
+      "position": "Software Engineer",
       "website": "http://sageautomation.com",
       "startDate": "2020-06-01",
-      "endDate": "2022-06-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Interacted with clients to find solutions to problems",
-        "Built out web-based dashboards for client interaction",
-        "Developed software for touch based kiosk",
-        "Designed and developed hardware systems to record real-world data",
-        "Developed device side, IoT code",
-        "Managed and maintained production databases",
-        "Managed, educated and provided guidance to junior engineers",
-        "Took responsibility for attracting interns and talent to the organisation"
+        "Optimised dozens of SQL queries resulting in an average runtime reduction of over 95% (240+ seconds down to 12 seconds on average)","
+        "Designed and implemented dashboards with PostgreSQL and Grafana giving civil servants an overview of location occupancy and traffic flows over time",
+        "Automated the process of weekly report generation, saving over 90% of time spent on said process",
+        "Gathered requirements from customers",
+        "Performed design work (UML, information architecture, UI/UX, etc.)","
+        "Designed hardware solution, developed device firmware with C++",
+        "Developed IoT Python package to communicate data to cloud",
+        "Created Javascript Express REST API to process data and store in database (Amazon AWS)","
+        "Developed a real-time and historic dashboard with Bootstrap and React for customer interaction",
+        "Wrote documentation on Confluence covering every part of the project",
+        "Best performing project in company wide security audit",
+        "Customer savings est. $127,220 for the 2022-2023 financial year",
+        "Responsible for developing and maintaining automated unit and end-to-end tests with Cypress and Jest",
+        "Produced training material for interns covering the basics of research, SDLC, Git, project management, Jira, Confluence, Agile, Scrum, Waterfall and more",
+        "Managed agile sprints with Jira",
+        "Documented internal processes with Confluence"
       ]
     },
     {
@@ -162,9 +157,12 @@
       "endDate": "2020-06-01",
       "summary": "",
       "highlights": [
-        "Built out a scalable automated machine learning pipeline",
-        "Developed machine learning models to predict pedestrian flows and location occupancy",
-        "Utilised and built out CD/DI pipelines using Gitlab to enhance productivity and reliability"
+        "8% Reduced data use of IoT fleet by optimising packet design (2021-2022 financial year savings of $10,368)","
+        "Redesigned network packets to add GPS logging",
+        "Developed machine learning model to predict pedestrian traffic flows and location occupancy with Tensorflow (mean error ~= 4.2%)","
+        "Built out Gitlab CD/DI pipeline to automatically extract and parse PostgreSQL and JSON data",
+        "Automatically passed data into ML model, and output predictions to database",
+        "Predictions were automatically viewable in all customer dashboards, updated daily"
       ]
     },
     {
