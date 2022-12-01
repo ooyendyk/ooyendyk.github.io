@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Luke Ooyendyk",
-    "label": "Engineering Officer",
+    "label": "Software Engineer",
     "picture": "https://ooyendyk.github.io/images/profile.jpeg",
     "email": "ooyendyk@tuta.io",
     "phone": "+61 459 707 989",
     "website": "https://ooyendyk.github.io",
-    "summary": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀I'm a Software Engineer at SAGE Automation",
+    "summary": "⠀⠀⠀⠀⠀⠀⠀I'm a Software Engineer at SAGE Automation",
     "location": {
       "address": "",
       "postalCode": "5000",
