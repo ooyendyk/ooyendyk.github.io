@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/ooyendyk/WDC-GroupProject/blob/master/documents/eatSpot.png
+image: ../images/eatSpot.png
 title: WDC-GroupProject
 permalink: projects/WDC-GroupProject
 # All dates must be YYYY-MM-DD format!
@@ -17,19 +17,13 @@ labels:
 summary: An (incomplete) resteraunt booking site made with Express.JS and Sass/Bootstrap
 ---
 
-<img class="ui large center floated rounded image" src="../images/flopchat.png">
-
-[Flop-Chat](https://github.com/ooyendyk/flop-chat) is a simple flask and socket.io chat app inspired by Slack.
-
-
-
 # WDC Group Project
 ### AKA: eatSpot
 
 ![image of website](../images/eatSpot.png "Image of website")
 
 #### Intro:
-eatSpot is restaurant booking site like [OpenTable.com](OpenTable.com),
+[eatSpot](https://github.com/ooyendyk/WDC-GroupProject) is restaurant booking site like [OpenTable.com](OpenTable.com),
 that I made as part of a university project. Initially it was supposed
 to be a group project, but I ended up doing it solo as no one on my team
 responded to my messages or showed up to class 😕.
@@ -41,13 +35,16 @@ Unfortunately I never quite got around to finishing the project. Whist,
 the front-end is mainly complete, the back-end has a [fair way to go](https://github.com/nerd-1/WDC-GroupProject/projects/2).
 
 #### Overview:
-![gif of website](https://github.com/ooyendyk/WDC-GroupProject/blob/master/documents/walkthrough.gif "gif of website")
+![gif of website](../images/walkthrough.gif "gif of website")
 
-![UML diagram](https://github.com/ooyendyk/WDC-GroupProject/blob/master/documents/UML-1.png "UML diagram")
+![UML diagram](../images/UML-1.png "UML diagram")
 
 
 #### Getting started:
 ```
+git clone https://github.com/ooyendyk/WDC-GroupProject.git
+cd WDC-GroupProject
+
 npm install
 sudo npm install -g nodemon
 npm start
