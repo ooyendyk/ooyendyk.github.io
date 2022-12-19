@@ -17,7 +17,6 @@ labels:
 summary: An (incomplete) resteraunt booking site made with Express.JS and Sass/Bootstrap
 ---
 
-# WDC Group Project
 ### AKA: eatSpot
 
 ![image of website](../images/eatSpot.png "Image of website")
