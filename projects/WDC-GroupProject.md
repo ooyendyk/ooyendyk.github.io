@@ -26,7 +26,7 @@ summary: An (incomplete) resteraunt booking site made with Express.JS and Sass/B
 # WDC Group Project
 ### AKA: eatSpot
 
-![image of website](https://github.com/ooyendyk/WDC-GroupProject/blob/master/documents/eatSpot.png "Image of website")
+![image of website](../images/eatSpot.png "Image of website")
 
 #### Intro:
 eatSpot is restaurant booking site like [OpenTable.com](OpenTable.com),
