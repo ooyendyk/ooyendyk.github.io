@@ -10,7 +10,7 @@ labels:
   - Python
   - Curses
   - Utilites
-summary: I developed a simple terminal based timer; inspired by the principal of user-centric design.
+summary: A simple terminal based timer.
 ---
 
 <div class="ui medium rounded images">
