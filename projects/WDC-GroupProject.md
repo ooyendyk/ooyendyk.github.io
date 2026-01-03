@@ -14,7 +14,7 @@ labels:
   - Sass
   - SCSS
   - GitHub
-summary: An (incomplete) resteraunt booking site made with Express.JS and Sass/Bootstrap
+summary: An (incomplete) restaurant booking site made with Express.JS and Sass/Bootstrap
 ---
 
 ### AKA: eatSpot
